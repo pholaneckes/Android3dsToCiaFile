@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">F3dsToCia</string>
+    <string name="title_home">转换页</string>
+    <string name="title_notifications">关于</string>
+    <string name="xz_3ds">选择3ds文件</string>
+    <string name="xc">输出在此</string>
+</resources>
